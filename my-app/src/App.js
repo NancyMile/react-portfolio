@@ -1,5 +1,6 @@
 import React from "react";
 //import components
+import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
 import Contact from "./components/Contact";
@@ -9,9 +10,9 @@ export default function App() {
   return (
     <main>
       <Navbar />
-      <About Me />
+      <About />
       <Portfolio />
-      <Contact me />
+      <Contact />
       <Resume />
     </main>
   );
