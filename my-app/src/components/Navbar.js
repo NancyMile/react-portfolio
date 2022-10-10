@@ -1,5 +1,7 @@
 import React from "react";
 
+import test_download_file from '../assets/files/Resume.pdf'; // gives image path
+
 export default function Navbar() {
     return (
         <div class="row">
@@ -15,7 +17,7 @@ export default function Navbar() {
                     <a class="nav-link" href="#contact">Contact Me</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link disabled" href="#">Resume</a>
+                    <a class="nav-link" href={test_download_file} download="Resume.pdf"> Resume</a>
                     </li>
                 </ul>
             </div>
