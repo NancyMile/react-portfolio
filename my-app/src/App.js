@@ -1,4 +1,7 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+
 //import components
 import Navbar from "./components/Navbar";
 import About from "./components/About";
