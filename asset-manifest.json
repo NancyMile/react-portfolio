@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.df961436.css",
+    "main.js": "/react-portfolio/static/js/main.227bbed4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.7396f972257894825253.pdf",
+    "static/media/work1.png": "/react-portfolio/static/media/work1.b163f9e3ca7a38779332.png",
+    "static/media/farmers-market-organiser.png": "/react-portfolio/static/media/farmers-market-organiser.e16d8026e26fff83b530.png",
+    "static/media/work3.png": "/react-portfolio/static/media/work3.b7218b9dd74805aaa3c6.png",
+    "static/media/work5.png": "/react-portfolio/static/media/work5.ed8f0ec78d7dbb2d8e65.png",
+    "static/media/work2.png": "/react-portfolio/static/media/work2.8b233e39cf4923180322.png",
+    "static/media/work4.png": "/react-portfolio/static/media/work4.ddd00c87f13f0c88dd8e.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.df961436.css.map": "/react-portfolio/static/css/main.df961436.css.map",
+    "main.227bbed4.js.map": "/react-portfolio/static/js/main.227bbed4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df961436.css",
+    "static/js/main.227bbed4.js"
+  ]
+}
