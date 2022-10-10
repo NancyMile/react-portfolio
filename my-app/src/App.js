@@ -4,19 +4,21 @@ import './App.css';
 
 //import components
 import Navbar from "./components/Navbar";
+import Header from "./components/Header";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
+import Works from "./components/Works";
 import Contact from "./components/Contact";
-import Resume from "./components/Resume";
 
 export default function App() {
   return (
     <main>
       <Navbar />
+      <Header />
       <About />
       <Portfolio />
+      <Works />
       <Contact />
-      <Resume />
     </main>
   );
 }
